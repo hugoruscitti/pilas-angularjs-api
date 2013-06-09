@@ -78,7 +78,6 @@ a.navbar-brand {
 .accordion-heading .accordion-toggle:hover,
 .accordion-heading .accordion-toggle.active,
 .accordion-heading .accordion-toggle.active:hover {
-  font-weight: bold;
   color: #ffffff;
   text-decoration: none;
   background: #2db0da;
@@ -287,4 +286,11 @@ pre code {
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
+}
+
+
+
+div.imagen {
+  text-align: center;
+  margin: 10px;
 }
